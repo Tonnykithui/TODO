@@ -1,1 +1,1 @@
-This project is made using JavaScript(React), Tailwindcss, C#(Coming in a few) for the REST API and Redux for state management.
+This project is made using JavaScript(React) and Redux for state management, Tailwindcss for styling and C#(Coming in a few) for the REST API.
